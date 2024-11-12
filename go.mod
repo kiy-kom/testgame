@@ -1,4 +1,4 @@
-module example.com/game
+module github.com/kiy-kom/testgame
 
 go 1.22.4
 
