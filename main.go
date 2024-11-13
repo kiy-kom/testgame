@@ -16,6 +16,7 @@ import (
 )
 
 type game struct {
+	
 	ticks      int
 	sampleJSON []byte
 }
